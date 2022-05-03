@@ -40,7 +40,7 @@ useExecutes2方法：  http://127.0.0.1:9091/useExecutes2/beyond
 
 运行结果如下：
 
-![img_1.png](img_1.png)
+![image](https://user-images.githubusercontent.com/39320802/166424807-4bcdf702-d15e-47e4-9124-0a1e06dfe706.png)
 
 
 <strong>三、调用降级接口</strong>
@@ -62,8 +62,7 @@ http://127.0.0.1:9091/useMock1/beyond
 
 运行结果如下：
 
-![img.png](img.png)
-
+![image](https://user-images.githubusercontent.com/39320802/166424782-806b397d-23c2-4c5b-ade4-08f099c7190e.png)
 
 
 
