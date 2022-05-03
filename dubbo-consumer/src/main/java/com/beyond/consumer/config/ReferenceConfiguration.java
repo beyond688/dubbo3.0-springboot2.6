@@ -29,7 +29,7 @@ public class ReferenceConfiguration {
      * dubbo降级一般是dubbo的超时设置 + 配置mock 类 配合使用的
      * MockDemoServiceImpl设置的超时时间是5000毫秒
      * useMock1执行时间需要10000毫秒
-     * 所以调研useMock1方法时会被降级处理
+     * 所以调用useMock1方法时会被降级处理
      * retries重试次数设置为0，因为降级的服务不需要重试机制
      */
     @Bean
